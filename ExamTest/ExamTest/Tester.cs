@@ -43,7 +43,27 @@ namespace ExamTest
         }
 
 
+        [Test]
+        public void OneWrong()
+        {
+            Parser parser = new Parser(@"C:\Users\Yaroslav Fedorchenko\Desktop\OneWrong.txt");
+            parser.start();
 
 
+            Assert.AreEqual(0, parser.words.Count);
+            
+        }
+
+
+        [Test]
+        public void OneRight()
+        {
+            Parser parser = new Parser(@"C:\Users\Yaroslav Fedorchenko\Desktop\OneRight.txt");
+            parser.start();
+
+
+            Assert.AreEqual(1, parser.words.Count);
+            
+        }
     }
 }
