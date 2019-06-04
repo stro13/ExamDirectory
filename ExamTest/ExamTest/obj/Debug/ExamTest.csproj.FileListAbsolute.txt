@@ -1,0 +1,11 @@
+C:\GIT\Exam Tests\ExamTest\ExamTest\bin\Debug\ExamTest.exe.config
+C:\GIT\Exam Tests\ExamTest\ExamTest\bin\Debug\ExamTest.exe
+C:\GIT\Exam Tests\ExamTest\ExamTest\bin\Debug\ExamTest.pdb
+C:\GIT\Exam Tests\ExamTest\ExamTest\bin\Debug\nunit.framework.dll
+C:\GIT\Exam Tests\ExamTest\ExamTest\bin\Debug\nunit.framework.pdb
+C:\GIT\Exam Tests\ExamTest\ExamTest\bin\Debug\nunit.framework.xml
+C:\GIT\Exam Tests\ExamTest\ExamTest\obj\Debug\ExamTest.csprojAssemblyReference.cache
+C:\GIT\Exam Tests\ExamTest\ExamTest\obj\Debug\ExamTest.csproj.CoreCompileInputs.cache
+C:\GIT\Exam Tests\ExamTest\ExamTest\obj\Debug\ExamTest.csproj.CopyComplete
+C:\GIT\Exam Tests\ExamTest\ExamTest\obj\Debug\ExamTest.exe
+C:\GIT\Exam Tests\ExamTest\ExamTest\obj\Debug\ExamTest.pdb
