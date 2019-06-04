@@ -10,7 +10,9 @@ namespace ExamTest
     {
         static void Main(string[] args)
         {
-
+            Parser parser = new Parser(@"C:\Users\Yaroslav Fedorchenko\Desktop\Вопросы.txt");
+            parser.start();
+            parser.show();
 
         }
     }
